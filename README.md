@@ -3,7 +3,7 @@
 Author: Yang Liu, Jiawei Xue<br>
 E-mail: eric.liu.249@gmail.com
 <br><br>
-Introduction<br>
+##Introduction<br>
 
 Financial statement analysis is the process of analyzing a company's financial statements for decision-making purposes and to seek the undervalued stocks for investments. Financial statements record financial data, which must be evaluated through financial statement analysis to become more useful to investors, shareholders, managers, and other interested parties.
 
