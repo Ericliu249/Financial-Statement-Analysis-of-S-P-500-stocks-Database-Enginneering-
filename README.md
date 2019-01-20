@@ -1,7 +1,7 @@
 # Financial Statement Analysis of S&P 500 stocks
 
-Author: Yang Liu, Jiawei Xue<br>
-E-mail: eric.liu.249@gmail.com
+- Author: Yang Liu, Jiawei Xue<br>
+- E-mail: eric.liu.249@gmail.com
 <br><br>
 ## Introduction<br>
 
