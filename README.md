@@ -13,7 +13,7 @@ First, we aimed to implement the value investing method, known as Warren Buffett
 
 Second, we utilized the DuPont analysis to analyze a company’s ability to increase its return on equity. In other words, this model breaks down the return on equity ratio to explain how companies can increase their return for investors. The Dupont analysis looks at three main components of the ROE ratio: profit margin, total asset turnover, and financial leverage. Based on these three performance measures the model concludes that a company can raise its ROE by maintaining a high profit margin, increasing asset turnover, or leveraging assets more effectively.
 
-## Data Sources¶<br>
+## Data Sources<br>
 
 We retrieved our datasets from Kaggle-New York Stock Exchange, a competition on the most famous data science community. 
 
