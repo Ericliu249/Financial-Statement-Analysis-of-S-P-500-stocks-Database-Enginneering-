@@ -1,4 +1,4 @@
-# Financial Statement Analysis of S&P 500 stocks
+# Financial Statement Analysis of S&P 500 stocks-Database Engineering
 
 - Author: Yang Liu, Jiawei Xue<br>
 - E-mail: eric.liu.249@gmail.com, yliu249@stevens.edu
