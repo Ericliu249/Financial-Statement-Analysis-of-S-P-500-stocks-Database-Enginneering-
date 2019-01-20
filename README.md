@@ -7,7 +7,7 @@
 
 Financial statement analysis is the process of analyzing a company's financial statements for decision-making purposes and to seek the undervalued stocks for investments. Financial statements record financial data, which must be evaluated through financial statement analysis to become more useful to investors, shareholders, managers, and other interested parties.
 
-In this project, we attempted to use Mysql and financial statement analysis to achieve two goals.
+In this project, we attempted to use **Mysql** and financial statement analysis to achieve two goals.
 
 First, we aimed to implement the value investing method, known as Warren Buffett's and Benjamin Graham's investment methodology, to find out which stocks to invest in. Value investing is an investment strategy where stocks are selected and traded for less than their intrinsic values. Using this investment strategy, we could find the opportunity to profit because most of the speculators on the market overreact to good and bad news, resulting in stock price movements that do not correspond with a company's long-term fundamentals. 
 
